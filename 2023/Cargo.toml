@@ -6,3 +6,12 @@ edition = "2021"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
+
+
+[[bin]]
+name = "day_1"           # The name of the target.
+path = "src/day_1.rs"    # The source file of the target.
+
+[[bin]]
+name = "day_2"           # The name of the target.
+path = "src/day_2.rs"    # The source file of the target.
