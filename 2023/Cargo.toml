@@ -16,3 +16,7 @@ path = "src/day_1.rs"    # The source file of the target.
 [[bin]]
 name = "day_2"           # The name of the target.
 path = "src/day_2.rs"    # The source file of the target.
+
+[[bin]]
+name = "day_3"           # The name of the target.
+path = "src/day_3.rs"    # The source file of the target.
